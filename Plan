@@ -1,0 +1,19 @@
+I need to write an application i can feed text and get a table with every letter and the amount of them in the text back.
+
+I think i will need 4 classes for this application.
+
+-Main Class
+-GUI class
+-A counter class
+-A graph building class
+
+Creating the text input and GUI won't be hard. However i have no experience yet with creating tables.
+What i think i might be able to do is count all the characters and save them in a HashMap, then build
+a graph using the values in the HashMap.
+
+I will be using a large text area, with a "Count" button below it.
+When the button is clicked it will generate a new HashMap then using a for loop i will be looping through
+every character in the text and counting the characters.
+
+After this the HashMap will go to the Graph class where a graph is generated using the HashMap. This table will
+then be displayed inside of the application.
