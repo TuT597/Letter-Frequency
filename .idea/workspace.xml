@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04d4d47d-b4b9-4411-b596-062466a3b1d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Plan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letterfreq/AppFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letterfreq/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letterfreq/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/letterfreq/GraphBuilder.java" afterDir="false" />
+    <list default="true" id="04d4d47d-b4b9-4411-b596-062466a3b1d8" name="Changes" comment="1.0 Finished.&#10;&#10;Will take any text in any language or character type and print out a sorted table containing the amount of each unique character in the text.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/letterfreq/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letterfreq/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/letterfreq/GraphBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/letterfreq/GraphBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,19 +28,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2RPsZUBS1tU25IdxA0UNEVJ3qHY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tuyan/Desktop/Projecten/GitHub/Letter-Frequency&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/tuyan/Desktop/Projecten/GitHub/World-Flags",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\tuyan\Desktop\Projecten\GitHub\Letter-Frequency\src\letterfreq" />
@@ -78,6 +80,18 @@
       <option name="presentableId" value="Default" />
       <updated>1687163107801</updated>
     </task>
+    <task id="LOCAL-00001" summary="1.0 Finished.&#10;&#10;Will take any text in any language or character type and print out a sorted table containing the amount of each unique character in the text.">
+      <created>1687429641172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687429641172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0 Finished.&#10;&#10;Will take any text in any language or character type and print out a sorted table containing the amount of each unique character in the text." />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0 Finished.&#10;&#10;Will take any text in any language or character type and print out a sorted table containing the amount of each unique character in the text." />
   </component>
 </project>

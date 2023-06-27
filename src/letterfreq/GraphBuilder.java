@@ -13,7 +13,7 @@ public class GraphBuilder extends JFrame {
     public static void BuildGraph() {
         JFrame frame2 = new JFrame();
         frame2.setSize(500,500);
-        frame2.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame2.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         frame2.setTitle("Character-Frequency");
 
         JPanel panel = new JPanel();
